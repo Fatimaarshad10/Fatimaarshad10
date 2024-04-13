@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fatima Arshad</h1>
 <h3 align="center">Full stack developer</h3>
 
-- 🌱 I’m currently learning **Machine learning**
-
 - 👨‍💻 All of my projects are available at [https://portfolio-theta-virid-32.vercel.app/](https://portfolio-theta-virid-32.vercel.app/)
 
 - 💬 Ask me about **react , node , express , Mongodb, PostgreSQL ,**
