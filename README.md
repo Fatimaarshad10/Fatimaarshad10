@@ -1,12 +1,11 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Fatima Arshad</h1>
 - 🏅 Full stack developer, completed my graduation in computer science, and recently won the gold medal in a hackathon
-- 🌟 Hello GPT-4 AI Challenge project [Emma Mental Health](https://lablab.ai/event/hello-gpt-4o-ai-challenge/mental-health-gpt4o/emma-mental-health)
 - 💬 Ask me about **react , node , express , Mongodb, PostgreSQL**
 - 📚 Currently learning Docker
 
-
-## Acknowledgements
+## Project
+🌟 Hello GPT-4 AI Challenge project [Emma Mental Health](https://lablab.ai/event/hello-gpt-4o-ai-challenge/mental-health-gpt4o/emma-mental-health)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ultimathulecode/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fatima-arshad-6ba52a184/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/UltimaThuleCode) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@UltimaThule-Code) 
