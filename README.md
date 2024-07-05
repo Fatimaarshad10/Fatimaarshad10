@@ -1,7 +1,7 @@
 ## 💫 About Me:
 <h1 align="center">Hi 👋, I'm Fatima Arshad</h1>
 - 🏅 Full stack developer, completed my graduation in computer science, and recently won the gold medal in a hackathon <br/>
-- 💬 Ask me about **react , node , express , Mongodb, PostgreSQL**<br/>
+- 💬 Ask me about React , Node , Express , Mongodb, PostgreSQL <br/>
 - 📚 Currently learning Docker<br/>
 
 ## Project
