@@ -8,7 +8,7 @@
   </div>
 
   <div style="float: right; width: 35%;">
-    <img src="./1722114482533.jpg" alt="Web Development Course" width="200" />
+    <img src="./1722114483466.jpg" alt="Web Development Course" width="200" />
   </div>
 </div>
 
