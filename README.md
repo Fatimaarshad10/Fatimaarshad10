@@ -1,7 +1,7 @@
 ## 💫 About Me:
 <h1 align="center">Hi 👋, I'm Fatima Arshad</h1>
 <p align="center">
-  <img src="./1722114482533.jpg" alt="Web Development Course" width="500" />
+  <img src="./1722114482533.jpg" alt="Web Development Course" width="300" />
 </p>
 - Full stack developer, completed my graduation in computer science, and recently won the gold medal in a hackathon <br/>
 - 💬 Ask me about ReactJS , NextJS , NodeJS , ExpressJS , Mongodb, PostgreSQL <br/>
