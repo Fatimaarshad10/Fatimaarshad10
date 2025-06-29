@@ -3,12 +3,28 @@
 <p align="center">
   <img src="./fatima.jpeg" alt="Web Development Course" width="500" />
 </p>
-🏅 Gold medalist in a recent national hackathon
-👨‍🏫 Trainer in Web and Mobile Development
-💬 Ask me anything about:
-ReactJS, NextJS, NodeJS, ExpressJS, MongoDB, PostgreSQL, and AWS
-🤖 Currently diving deep into AI integration — learning how to build chatbots and integrate AI into apps and websites
-📚 Passionate about building scalable applications, sharing knowledge, and staying at the cutting edge of tech
+
+🏅 **Gold Medalist** in a recent **National Hackathon**  
+👨‍🏫 **Trainer** in **Web and Mobile Development**  
+
+💬 **Ask Me Anything About:**  
+- ⚛️ ReactJS  
+- ⚡ NextJS  
+- 🌐 NodeJS  
+- 🚀 ExpressJS  
+- 🍃 MongoDB  
+- 🐘 PostgreSQL  
+- ☁️ AWS  
+
+🤖 **Currently Diving Deep Into AI Integration:**  
+- Building smart chatbots  
+- Integrating AI into apps and websites  
+
+📚 **Passionate About:**  
+- Building **scalable applications**  
+- **Sharing knowledge**  
+- Staying at the **cutting edge of tech**
+
 
 ## Project
 🏅 Hello GPT-4 AI Challenge project [Emma Mental Health](https://lablab.ai/event/hello-gpt-4o-ai-challenge/mental-health-gpt4o/emma-mental-health)
