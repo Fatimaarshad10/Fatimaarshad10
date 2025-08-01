@@ -8,23 +8,7 @@
 👨‍🏫 **Trainer** in **Web and Mobile Development**  
 
 💬 **Ask Me Anything About:**  
-- ⚛️ ReactJS  
-- ⚡ NextJS  
-- 🌐 NodeJS  
-- 🚀 ExpressJS  
-- 🍃 MongoDB  
-- 🐘 PostgreSQL  
-- ☁️ AWS  
-
-🤖 **Currently Diving Deep Into AI Integration:**  
-- Building smart chatbots  
-- Integrating AI into apps and websites  
-
-📚 **Passionate About:**  
-- Building **scalable applications**  
-- **Sharing knowledge**  
-- Staying at the **cutting edge of tech**
-
+- ReactJS, NextJS, NodeJS  
 
 ## Project
 🏅 Hello GPT-4 AI Challenge project [Emma Mental Health](https://lablab.ai/event/hello-gpt-4o-ai-challenge/mental-health-gpt4o/emma-mental-health)
