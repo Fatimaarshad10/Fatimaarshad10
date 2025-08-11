@@ -3,16 +3,17 @@
 <h3 align="center">Full Stack Developer • Trainer • Hackathon Winner</h3>
 
 <p align="center">
-  <img src="./fatima.jpeg" alt="Fatima Arshad" width="100" style="border-radius:10px;">
+  <img src="./fatima.jpeg" alt="Fatima Arshad" width="500" style="border-radius:10px;">
 </p>
 
-
+⚡ Currently learning **FastAPI** with **Hugging Face integration** for AI-powered applications.
 💻 Passionate about building **scalable web & mobile applications**, mentoring future developers, and solving real-world problems with technology.  
 📚 Currently **Training students** in **Web & Mobile Development** and **Web Designing** at **Saylani**, following a structured, project-based teaching approach.  
-🎓 Completed **Stanford University’s Python Basics** in 2024.  
+🎓 Served as a **Section Leader** for Stanford University's *Code in Place 2025*, a free introductory Python programming course based on CS106A, where I trained international students in foundational programming skills.
+
 ⌨️ Typing speed: **100+ WPM**.  
 🏆 Participated in **3 international hackathons** with [lablab.ai](https://lablab.ai) — **Winner of Emma Mental Health** project.  
-⚡ Currently learning **FastAPI** with **Hugging Face integration** for AI-powered applications.
+
 
 ---
 
