@@ -10,7 +10,6 @@
 💻 Passionate about building **scalable web & mobile applications**, mentoring future developers, and solving real-world problems with technology.  
 📚 Currently **Training students** in **Web & Mobile Development** and **Web Designing** at **Saylani**, following a structured, project-based teaching approach.  
 🎓 Served as a **Section Leader** for Stanford University's *Code in Place 2025*, a free introductory Python programming course based on CS106A, where I trained international students in foundational programming skills.
-
 ⌨️ Typing speed: **100+ WPM**.  
 🏆 Participated in **3 international hackathons** with [lablab.ai](https://lablab.ai) — **Winner of Emma Mental Health** project.  
 
