@@ -2,7 +2,10 @@
 <h1 align="center">Hi 👋, I'm Fatima Arshad</h1>
 <h3 align="center">Full Stack Developer • Trainer • Hackathon Winner</h3>
 
-<img src="./fatima.jpeg" alt="Fatima Arshad" width="200" style="border-radius:10px;">
+<p align="center">
+  <img src="./fatima.jpeg" alt="Fatima Arshad" width="100" style="border-radius:10px;">
+</p>
+
 
 💻 Passionate about building **scalable web & mobile applications**, mentoring future developers, and solving real-world problems with technology.  
 📚 Currently **Training students** in **Web & Mobile Development** and **Web Designing** at **Saylani**, following a structured, project-based teaching approach.  
@@ -65,7 +68,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatimaarshad10&theme=dark&hide_border=true&layout=compact)  
 
 ---
-
-## 🏅 Contributor Badge
-[![committers.top badge](https://user-badge.committers.top/pakistan/Fatimaarshad10.svg)](https://user-badge.committers.top/pakistan/Fatimaarshad10)  
-> *Currently tracking contributions in Pakistan — aiming for the **Top 256*** 🚀
