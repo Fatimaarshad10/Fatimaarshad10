@@ -1,27 +1,26 @@
 ## 💫 About Me  
 <h1 align="center">Hi 👋, I'm Fatima Arshad</h1>
-<h3 align="center">Full Stack Developer • Trainer • Hackathon Winner</h3>
+<h3 align="center">Full Stack Developer • AI Research Enthusiast • Trainer • Hackathon Winner</h3>
 
 <p align="center">
   <img src="./fatima.jpeg" alt="Fatima Arshad" width="500" style="border-radius:10px;">
 </p>
 
-⚡ Currently learning **FastAPI** with **Hugging Face integration** for AI-powered applications.  
-💻 Passionate about building **scalable web & mobile applications**, mentoring future developers, and solving real-world problems with technology.  
-📚 Currently **Training students** in **Web & Mobile Development** and **Web Designing** at **Saylani**, following a structured, project-based teaching approach.  
-🎓 Served as a **Section Leader** for Stanford University's *Code in Place 2025*, a free introductory Python programming course based on CS106A, where I trained international students in foundational programming skills.  
-⌨️ Typing speed: **100+ WPM**.  
-🏆 Participated in **3 international hackathons** with [lablab.ai](https://lablab.ai) — **Winner of Emma Mental Health** project.  
+⚡ Currently working on Python-based AI projects using FastAPI, Hugging Face, and Google Colab, focusing on applying machine learning in healthcare and social media research.
+📚 Experienced Trainer – Taught 600+ students in Python, web, and mobile development at Saylani Mass IT Training.
+🎓 Stanford Code in Place 2025 – Selected as Section Leader from 37,000+ applicants across 190+ countries, mentoring global learners in foundational Python programming (CS106A).
+💡 LeetCode Problem Solver – Solved 90+ advanced Data Structures & Algorithms problems, showcasing strong coding and analytical skills.
+⌨️ High Typing Speed – 100+ WPM for efficient coding and rapid prototyping.
 
 ---
 
-## 🚀 Achievements
-- 🥇 **Emma Mental Health** – Winner of Hello GPT-4 AI Challenge.  
-- 🎤 Speaker & Trainer — Trained **600+ students** in modern web development.  
-- 🌐 Delivered multiple **MERN Stack** & **Microservices-based** projects.  
-- 🛠 Integrated **Docker, AWS, Google Auth, Stripe, MFA, Hugging Face AI models, and real-time communication** into production apps.  
-- 📈 Contributed to open-source projects & actively engaged with the developer community.
-
+Achievements
+🥇 Emma Mental Health – Winner of Hello GPT-4 AI Challenge (AI-powered mental health assistant).
+📊 Research-Driven AI Projects – Developed and deployed Python-based ML models for sentiment analysis, text classification, and conversational AI.
+🎤 Trainer & Speaker – Delivered structured, project-based training to 600+ students in Python and full-stack development.
+🌐 Built scalable MERN Stack & Python API solutions, integrating ML models, Hugging Face pipelines, and cloud deployments.
+🛠 Experienced with TensorFlow, PyTorch, FastAPI, Docker, AWS, Stripe, MFA, and real-time communication technologies.
+📈 Contributed to open-source AI tools and participated in international hackathons with lablab.ai.
 ---
 
 ## 💻 Tech Stack
