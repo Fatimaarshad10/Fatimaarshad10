@@ -1,27 +1,40 @@
 ## 💫 About Me  
 <h1 align="center">Hi 👋, I'm Fatima Arshad</h1>
-<h3 align="center">Full Stack Developer • AI Research Enthusiast • Trainer • Hackathon Winner</h3>
+<h3 align="center">Full Stack Developer • AI Researcher • Trainer</h3>
 
 <p align="center">
   <img src="./fatima.jpeg" alt="Fatima Arshad" width="500" style="border-radius:10px;">
 </p>
 
-⚡ Currently working on Python-based AI projects using FastAPI, Hugging Face, and Google Colab, focusing on applying machine learning in healthcare and social media research.
-📚 Experienced Trainer – Taught 600+ students in Python, web, and mobile development at Saylani Mass IT Training.
-🎓 Stanford Code in Place 2025 – Selected as Section Leader from 37,000+ applicants across 190+ countries, mentoring global learners in foundational Python programming (CS106A).
-💡 LeetCode Problem Solver – Solved 90+ advanced Data Structures & Algorithms problems, showcasing strong coding and analytical skills.
-⌨️ High Typing Speed – 100+ WPM for efficient coding and rapid prototyping.
+⚡ Currently working on **Python-based AI projects** using **FastAPI**, **Hugging Face**, and **Google Colab**, with a focus on applying **machine learning** in **healthcare** and **social media research**.  
+💻 Passionate about building **scalable AI-driven applications**, mentoring developers, and using technology for impactful research.  
+⌨️ Typing speed: **100+ WPM**.  
+🧩 LeetCode: Solved **100+ advanced problems** in **Data Structures & Algorithms**, demonstrating strong problem-solving skills.  
 
 ---
 
-Achievements
-🥇 Emma Mental Health – Winner of Hello GPT-4 AI Challenge (AI-powered mental health assistant).
-📊 Research-Driven AI Projects – Developed and deployed Python-based ML models for sentiment analysis, text classification, and conversational AI.
-🎤 Trainer & Speaker – Delivered structured, project-based training to 600+ students in Python and full-stack development.
-🌐 Built scalable MERN Stack & Python API solutions, integrating ML models, Hugging Face pipelines, and cloud deployments.
-🛠 Experienced with TensorFlow, PyTorch, FastAPI, Docker, AWS, Stripe, MFA, and real-time communication technologies.
-📈 Contributed to open-source AI tools and participated in international hackathons with lablab.ai.
+## 🎓 Teaching & Mentoring  
+- **Stanford Code in Place 2025 (CS106A)**: Selected as **Section Leader** from **37,000+ applicants across 190+ countries**. Mentored international learners in **Python programming** through Stanford’s project-based approach.  
+- **Saylani Mass IT Training**: Trained **600+ students** in **Web Development, Mobile Development, and Python**, following a structured, hands-on methodology.  
+
 ---
+
+## 🚀 Achievements  
+- 🥇 **Emma Mental Health** – Winner of *Hello GPT-4 AI Challenge* by [lablab.ai](https://lablab.ai).  
+- 🏆 Participated in **3+ International AI Hackathons**, specializing in **AI for social good**.  
+- 🌐 Delivered multiple **MERN Stack**, **AI-powered**, and **Microservices-based** projects.  
+- 🛠 Integrated **Docker, AWS, Google Auth, Stripe, MFA, Hugging Face AI models, and real-time communication** into production apps.  
+- 📈 Contributed to **open-source AI projects** and engaged with the **global developer community**.  
+
+---
+
+## 📌 Research Interests  
+- Natural Language Processing (NLP)  
+- AI for Healthcare & Mental Health  
+- Social Media Data Analysis  
+- Python-based Machine Learning Systems  
+- Scalable AI Application Architecture  
+
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
