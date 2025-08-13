@@ -28,13 +28,6 @@
 
 ---
 
-## 📌 Research Interests  
-- Natural Language Processing (NLP)  
-- AI for Healthcare & Mental Health  
-- Social Media Data Analysis  
-- Python-based Machine Learning Systems  
-- Scalable AI Application Architecture  
-
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
