@@ -1,17 +1,10 @@
 ## 💫 About Me  
 <h1 align="center">Hi 👋, I'm Fatima Arshad</h1>
-<h3 align="center">Full Stack Developer • AI Researcher • Trainer</h3>
+<h3 align="center">Full Stack Developer & Trainer</h3>
 
 <p align="center">
   <img src="./fatima.jpeg" alt="Fatima Arshad" width="500" style="border-radius:10px;">
 </p>
-
-⚡ Currently working on **Python-based AI projects** using **FastAPI**, **Hugging Face**, and **Google Colab**, with a focus on applying **machine learning** in **healthcare** and **social media research**.  
-💻 Passionate about building **scalable AI-driven applications**, mentoring developers, and using technology for impactful research.  
-⌨️ Typing speed: **100+ WPM**.  
-🧩 LeetCode: Solved **100+ advanced problems** in **Data Structures & Algorithms**, demonstrating strong problem-solving skills.  
-
----
 
 ## 🎓 Teaching & Mentoring  
 - **Stanford Code in Place 2025 (CS106A)**: Selected as **Section Leader** from **37,000+ applicants across 190+ countries**. Mentored international learners in **Python programming** through Stanford’s project-based approach.  
