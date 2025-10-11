@@ -8,7 +8,7 @@
 
 ## 🎓 Teaching & Mentoring  
 - **Saylani Mass IT Training**: Trained **600+ students** in **Web Development, Mobile Development **, following a structured, hands-on methodology.
-- - **Stanford Code in Place 2025 (CS106A)**: Selected as **Section Leader** from **37,000+ applicants across 190+ countries**. Mentored international learners in **Python programming** through Stanford’s project-based approach. 
+- **Stanford Code in Place 2025 (CS106A)**: Selected as **Section Leader** from **37,000+ applicants across 190+ countries**. Mentored international learners in **Python programming** through Stanford’s project-based approach. 
 
 ---
 
