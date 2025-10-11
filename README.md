@@ -7,17 +7,14 @@
 </p>
 
 ## 🎓 Teaching & Mentoring  
-- **Stanford Code in Place 2025 (CS106A)**: Selected as **Section Leader** from **37,000+ applicants across 190+ countries**. Mentored international learners in **Python programming** through Stanford’s project-based approach.  
-- **Saylani Mass IT Training**: Trained **600+ students** in **Web Development, Mobile Development, and Python**, following a structured, hands-on methodology.  
+- **Saylani Mass IT Training**: Trained **600+ students** in **Web Development, Mobile Development **, following a structured, hands-on methodology.
+- - **Stanford Code in Place 2025 (CS106A)**: Selected as **Section Leader** from **37,000+ applicants across 190+ countries**. Mentored international learners in **Python programming** through Stanford’s project-based approach. 
 
 ---
 
 ## 🚀 Achievements  
 - 🥇 **Emma Mental Health** – Winner of *Hello GPT-4 AI Challenge* by [lablab.ai](https://lablab.ai).  
 - 🏆 Participated in **3+ International AI Hackathons**, specializing in **AI for social good**.  
-- 🌐 Delivered multiple **MERN Stack**, **AI-powered**, and **Microservices-based** projects.  
-- 🛠 Integrated **Docker, AWS, Google Auth, Stripe, MFA, Hugging Face AI models, and real-time communication** into production apps.  
-- 📈 Contributed to **open-source AI projects** and engaged with the **global developer community**.  
 
 ---
 
