@@ -5,25 +5,15 @@
 <p align="center">
   <img src="./fatima.jpeg" alt="Fatima Arshad" width="500" style="border-radius:10px;">
 </p>
-
-## 🎓 Teaching & Mentoring  
-- **Saylani Mass IT Training**: Trained **600+ students** in **Web Development, Mobile Development **, following a structured, hands-on methodology.
-- **Stanford Code in Place 2025 (CS106A)**: Selected as **Section Leader** from **37,000+ applicants across 190+ countries**. Mentored international learners in **Python programming** through Stanford’s project-based approach. 
-
 ---
 
-## 🚀 Achievements  
-- 🥇 **Emma Mental Health** – Winner of *Hello GPT-4 AI Challenge* by [lablab.ai](https://lablab.ai).  
-- 🏆 Participated in **3+ International AI Hackathons**, specializing in **AI for social good**.  
-
----
+I enjoy working with JavaScript and love solving problems, handling errors, and writing clean, efficient code.
+If you're interested in learning programming, I can help you understand concepts clearly and stay motivated throughout your coding journey.
+I’m a self-driven developer with a strong passion for teaching and continuous learning.
 
 
 ## 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
@@ -50,9 +40,7 @@
 ---
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ultimathulecode/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-arshad-6ba52a184/) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/UltimaThuleCode) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@UltimaThule-Code) 
 
 ---
