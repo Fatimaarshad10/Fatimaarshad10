@@ -5,7 +5,6 @@
 <p align="center">
   <img src="./fatima.jpeg" alt="Fatima Arshad" width="500" style="border-radius:10px;">
 </p>
----
 
 I enjoy working with JavaScript and love solving problems, handling errors, and writing clean, efficient code.
 If you're interested in learning programming, I can help you understand concepts clearly and stay motivated throughout your coding journey.
@@ -37,13 +36,6 @@ I’m a self-driven developer with a strong passion for teaching and continuous 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
----
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-arshad-6ba52a184/) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@UltimaThule-Code) 
-
----
 
 ## 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Fatimaarshad10&theme=dark&hide_border=true)  
