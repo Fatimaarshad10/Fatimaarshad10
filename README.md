@@ -1,17 +1,90 @@
-## 💫 About Me  
+# 💫 About Me  
+
 <h1 align="center">Hi 👋, I'm Fatima Arshad</h1>
 <h3 align="center">Full Stack Developer & Trainer</h3>
 
 <p align="center">
-  <img src="./fatima.jpeg" alt="Fatima Arshad" width="500" style="border-radius:10px;">
+  <img src="./fatima.jpeg" alt="Fatima Arshad" width="400" style="border-radius:10px;" />
 </p>
 
-I enjoy working with JavaScript and love solving problems, handling errors, and writing clean, efficient code.
-If you're interested in learning programming, I can help you understand concepts clearly and stay motivated throughout your coding journey.
-I’m a self-driven developer with a strong passion for teaching and continuous learning.
+I enjoy working with **JavaScript** and love solving problems, handling errors, and writing clean, efficient code.  
+If you're interested in learning programming, I can help you understand concepts clearly and stay motivated throughout your coding journey.  
+I’m a **self-driven developer** with a strong passion for **teaching and continuous learning**.
 
+---
 
 ## 💻 Tech Stack
+
+### 🧠 Programming Languages
+![JavaScript][js-badge]
+![Python][python-badge]
+![C++][cpp-badge]
+
+### 🎨 Frontend
+![React][react-badge]
+![Next.js][next-badge]
+![Angular][angular-badge]
+![Tailwind CSS][tailwind-badge]
+![Bootstrap][bootstrap-badge]
+![SASS][sass-badge]
+![MUI][mui-badge]
+
+### ⚙️ Backend
+![Node.js][node-badge]
+![Express.js][express-badge]
+![FastAPI][fastapi-badge]
+![Socket.io][socket-badge]
+
+### 🗄️ Databases & ORM
+![MongoDB][mongo-badge]
+![PostgreSQL][postgres-badge]
+![MySQL][mysql-badge]
+![Redis][redis-badge]
+![Sequelize][sequelize-badge]
+
+### ☁️ DevOps & Cloud
+![Docker][docker-badge]
+![AWS][aws-badge]
+![Firebase][firebase-badge]
+
+### 🛍️ E-Commerce & CMS
+![Shopify][shopify-badge]
+![Checkout Champ][checkoutchamp-badge]
+![Replo][replo-badge]
+
+### 🎨 Design & Analytics
+![Figma][figma-badge]
+![Canva][canva-badge]
+![Microsoft Clarity][clarity-badge]
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fatimaarshad10&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatimaarshad10&theme=dark&hide_border=true&layout=compact)
+
+---
+
+## 🤝 What I Can Help With
+- Full Stack Web Development  
+- MERN / PERN Stack Projects  
+- API Design & Integration  
+- Error Handling & Code Optimization  
+- Teaching & Mentoring Beginners  
+- UI to Code (Figma → React)  
+
+---
+
+## 📫 Connect With Me
+- 💼 GitHub: https://github.com/Fatimaarshad10  
+- 💬 Open to collaboration, freelancing & mentoring  
+
+---
+
+## 🔗 Badge Definitions (DO NOT REMOVE)
+
 [js-badge]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [python-badge]: https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54
 [cpp-badge]: https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
@@ -46,11 +119,3 @@ I’m a self-driven developer with a strong passion for teaching and continuous 
 [figma-badge]: https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 [canva-badge]: https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white
 [clarity-badge]: https://img.shields.io/badge/Microsoft%20Clarity-512BD4?style=for-the-badge&logo=microsoft&logoColor=white
-
-
-
-## 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=Fatimaarshad10&theme=dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatimaarshad10&theme=dark&hide_border=true&layout=compact)  
-
----
