@@ -83,7 +83,6 @@ I’m a **self-driven developer** with a strong passion for **teaching and conti
 
 ---
 
-## 🔗 Badge Definitions (DO NOT REMOVE)
 
 [js-badge]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [python-badge]: https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54
