@@ -2,14 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Fatima Arshad</h1>
 <h3 align="center">Full Stack Developer & Trainer</h3>
-
 <p align="center">
-  <img src="./fatima.jpeg" alt="Fatima Arshad" width="400" style="border-radius:10px;" />
+I build things with <b>JavaScript</b> 🚀  
+I love solving problems, fixing bugs, writing clean code, and sharing what I learn along the way.
 </p>
-
-I enjoy working with **JavaScript** and love solving problems, handling errors, and writing clean, efficient code.  
-If you're interested in learning programming, I can help you understand concepts clearly and stay motivated throughout your coding journey.  
-I’m a **self-driven developer** with a strong passion for **teaching and continuous learning**.
 
 ---
 
@@ -59,29 +55,6 @@ I’m a **self-driven developer** with a strong passion for **teaching and conti
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fatimaarshad10&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatimaarshad10&theme=dark&hide_border=true&layout=compact)
-
----
-
-## 🤝 What I Can Help With
-- Full Stack Web Development  
-- MERN / PERN Stack Projects  
-- API Design & Integration  
-- Error Handling & Code Optimization  
-- Teaching & Mentoring Beginners  
-- UI to Code (Figma → React)  
-
----
-
-## 📫 Connect With Me
-- 💼 GitHub: https://github.com/Fatimaarshad10  
-- 💬 Open to collaboration, freelancing & mentoring  
-
----
 
 
 [js-badge]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
